@@ -1,0 +1,565 @@
+﻿Source identifier ,Source latitude (deg),Source longitude (deg),Vista ID,Source type ,IPCC sector,N overflights,Source Persistence (f),Confidence in persistence ,Qsource (kg/hr),sQ  (kg/hr)
+S00006,34.4471,-118.5883,NSF000003,gas storage facility,1B2 Oil & Natural Gas,66,0.76,1,295.4,98.6
+S00007,33.906,-118.4063,REF000005,refinery,1A1 Energy Industries,15,0.13,1,22.4,6.2
+S00008,33.9054,-118.4064,REF000005,refinery,1A1 Energy Industries,14,0.14,1,15.4,5.3
+S00011,33.777,-118.287,REF000013,refinery,1A1 Energy Industries,11,0.09,1,4.9,2.4
+S00012,33.7726,-118.2864,REF000013,refinery,1A1 Energy Industries,11,0.27,1,21.1,10.4
+S00014,33.8047,-118.2439,REF000012,refinery,1A1 Energy Industries,21,0.19,1,7.7,2.2
+S00016,33.8158,-118.2469,REF000021,refinery,1A1 Energy Industries,23,0.04,1,2.8,1.7
+S00017,33.9727,-117.6999,NA,gas distribution line,1B2 Oil & Natural Gas,9,0.33,0.9,92.8,35.2
+S00019,34.7799,-116.5943,COM000458,gas compressor,1B2 Oil & Natural Gas,8,0.13,0.9,15.3,9.3
+S00022,35.1851,-119.1021,DAF001565,dairy/manure,3A2 Manure Management,13,0.08,1,9.6,1.6
+S00023,35.2007,-119.0524,DAF000800,dairy/manure,3A2 Manure Management,12,0.33,1,109.3,32.5
+S00024,35.2139,-118.988,DAF001382,dairy/manure,3A2 Manure Management,1,1,0.3,122.2,54.1
+S00025,35.175,-119.1243,DAF000259,dairy/manure,3A2 Manure Management,19,0.05,1,6,0.6
+S00027,35.186,-119.1034,DAF001565,dairy/manure,3A2 Manure Management,14,0.07,1,13.1,1.6
+S00029,35.204,-119.1989,DAF001627,dairy/manure,3A2 Manure Management,11,0.09,1,50.9,17.9
+S00030,35.2143,-119.2074,DAF001290,dairy/manure,3A2 Manure Management,12,0.17,1,49.4,9.8
+S00031,35.2143,-119.2097,DAF001290,dairy/manure,3A2 Manure Management,13,0.08,1,21.1,3.1
+S00032,35.2025,-119.1988,DAF001627,dairy/manure,3A2 Manure Management,11,0.09,1,14.5,5
+S00033,35.2514,-119.1572,DAF001256,dairy/manure,3A2 Manure Management,8,0.13,0.9,23.5,6
+S00035,36.0005,-119.5009,DAF001767,dairy/manure,3A2 Manure Management,1,1,0.3,294.4,114.5
+S00036,35.9909,-119.4919,DAF001767,dairy/manure,3A2 Manure Management,2,0.5,0.4,53.2,16.3
+S00037,36.0185,-119.4168,DAF001144,dairy/manure,3A2 Manure Management,9,0.22,0.9,57.3,33.3
+S00038,36.0445,-119.2168,DAF000351,dairy/manure,3A2 Manure Management,1,1,0.3,137,76.4
+S00039,36.0935,-119.3397,DAF001455,dairy/manure,3A2 Manure Management,8,0.25,0.9,29.4,2
+S00041,36.0735,-119.4409,DAF000642,dairy/manure - digester,3A2 Manure Management,9,0.56,0.9,170.6,51.4
+S00042,37.9864,-121.4738,NSF000010,gas storage facility,1B2 Oil & Natural Gas,20,0.5,1,64.6,23.4
+S00043,36.0786,-119.4416,DAF000642,dairy/manure,3A2 Manure Management,10,0.1,0.9,0.9,0.5
+S00048,36.1414,-119.536,DAF000553,dairy/manure,3A2 Manure Management,2,0.5,0.4,132.9,42.8
+S00049,36.2158,-119.1659,DAF001284,dairy/manure,3A2 Manure Management,8,0.13,0.9,11.2,2.8
+S00050,36.2032,-119.1911,DAF000375,dairy/manure,3A2 Manure Management,8,0.13,0.9,11.2,2.8
+S00051,36.1653,-119.5379,DAF001911,dairy/manure,3A2 Manure Management,2,0.5,0.4,142.1,37.6
+S00053,36.164,-119.6925,DAF001779,dairy/manure,3A2 Manure Management,3,0.33,0.6,18.9,2.3
+S00054,36.1824,-119.6591,DAF000293,dairy/manure,3A2 Manure Management,9,0.11,0.9,1.2,0.3
+S00060,36.2055,-119.5324,DAF001127,dairy/manure,3A2 Manure Management,2,0.5,0.4,7.8,4.4
+S00067,36.2486,-119.4982,DAF000387,dairy/manure,3A2 Manure Management,2,0.5,0.4,79.7,22.8
+S00068,36.23,-119.6132,DAF001093,dairy/manure,3A2 Manure Management,2,0.5,0.4,134.5,57.1
+S00071,36.2422,-119.5489,DAF001660,dairy/manure,3A2 Manure Management,3,0.33,0.6,53.1,15.2
+S00074,36.2761,-119.4522,DAF001426,dairy/manure,3A2 Manure Management,5,0.4,0.8,135.9,33.5
+S00075,36.2623,-119.6278,DAF000419,dairy/manure,3A2 Manure Management,4,0.5,0.7,34.1,7.9
+S00078,34.3857,-118.4967,FAB002088,oil/gas tank,1B2 Oil & Natural Gas,11,0.09,1,7.1,2.4
+S00080,34.4474,-118.5867,NSF000003,gas compressor,1B2 Oil & Natural Gas,66,0.29,1,134.4,51.8
+S00081,36.4994,-119.6175,DAF001805,wastewater treatment,4D2 Industrial Wastewater Treatment & Discharge,7,0.86,0.9,411.1,176
+S00082,36.4138,-119.8651,DAF000626,dairy/manure,3A2 Manure Management,3,0.33,0.6,87.8,32.5
+S00083,35.1666,-119.1019,DAF000177,dairy/manure,3A2 Manure Management,35,0.17,1,40.1,11.3
+S00088,33.8562,-117.0803,DAF001121,dairy/manure,3A2 Manure Management,1,1,0.3,47.3,21.7
+S00089,34.0021,-117.6164,DAF001110,dairy/manure,3A2 Manure Management,3,0.33,0.6,24.5,7
+S00090,36.7243,-120.2339,DAF001811,dairy/manure,3A2 Manure Management,3,0.33,0.6,34.5,15.9
+S00091,34.3805,-118.4982,FLD000337,oil/gas unknown infrastucture,1B2 Oil & Natural Gas,11,0.09,1,20.9,4.2
+S00092,34.3852,-118.4963,FAB002088,oil/gas tank,1B2 Oil & Natural Gas,11,0.09,1,12.4,3.2
+S00094,38.0423,-122.2523,REF000014,refinery,1A1 Energy Industries,15,0.67,1,109.6,56.5
+S00098,37.9368,-122.4044,REF000004,refinery,1A1 Energy Industries,6,0.17,0.8,27.2,8.8
+S00099,37.9497,-122.3966,REF000004,refinery,1A1 Energy Industries,13,0.62,1,373.1,161.8
+S00102,33.995,-118.1521,LNG000013,gas LNG station,1B2 Oil & Natural Gas,7,0.14,0.9,19.8,5.3
+S00103,34.0016,-118.3693,FAB001738,oil/gas tank,1B2 Oil & Natural Gas,11,0.64,1,77.8,20.1
+S00104,36.1638,-120.3952,FLD000090,oil/gas gathering line,1B2 Oil & Natural Gas,4,0.25,0.7,75.7,24
+S00105,36.209,-120.3931,FAB000050,oil/gas waste lagoon,1B2 Oil & Natural Gas,2,0.5,0.4,97,21.6
+S00106,35.446,-119.015,FLD000208,oil/gas drill rig,1B2 Oil & Natural Gas,9,0.44,0.9,56.3,15.4
+S00107,35.4708,-119.0394,FAB003100,oil/gas unknown infrastucture,1B2 Oil & Natural Gas,9,0.11,0.9,45.8,10.9
+S00110,35.4829,-119.0576,FLD000207,oil/gas pumpjack,1B2 Oil & Natural Gas,9,0.33,0.9,61.4,9.2
+S00116,35.499,-119.0721,FLD000344,oil/gas pumpjack,1B2 Oil & Natural Gas,12,0.58,1,168.6,32.9
+S00117,35.5061,-119.0741,FLD000344,oil/gas unknown infrastucture,1B2 Oil & Natural Gas,18,0.22,1,33.9,7.2
+S00118,35.5075,-119.0742,FLD000344,oil/gas pumpjack,1B2 Oil & Natural Gas,21,0.24,1,41.5,9.3
+S00119,35.4749,-119.4306,DAF001720,dairy/manure,3A2 Manure Management,8,0.25,0.9,98.4,21.4
+S00120,35.2382,-119.5914,FLD000285,oil/gas gathering line,1B2 Oil & Natural Gas,6,0.17,0.8,43.9,16.9
+S00121,35.3647,-119.67,FLD000112,oil/gas gathering line,1B2 Oil & Natural Gas,7,0.71,0.9,57.3,2.2
+S00122,35.4805,-119.7431,NPP000003,oil/gas unknown infrastucture,1B2 Oil & Natural Gas,3,0.33,0.6,37,18.4
+S00123,35.5292,-119.7695,FLD000027,oil/gas gathering line,1B2 Oil & Natural Gas,3,0.33,0.6,45.4,11.2
+S00124,35.2272,-119.5784,FLD000285,oil/gas unknown infrastucture,1B2 Oil & Natural Gas,4,0.25,0.7,41.7,7.7
+S00125,35.248,-119.5808,LNF000030,oil/gas gathering line,1B2 Oil & Natural Gas,6,0.17,0.8,65.5,19.8
+S00126,35.2536,-119.5865,FLD000285,oil/gas gathering line,1B2 Oil & Natural Gas,8,0.13,0.9,44,14.8
+S00127,35.3419,-119.6461,FLD000112,oil/gas gathering line,1B2 Oil & Natural Gas,4,0.25,0.7,36.6,10.3
+S00128,35.4296,-119.6902,FAB000055,oil/gas unknown infrastucture,1B2 Oil & Natural Gas,3,0.33,0.6,45.3,13.4
+S00129,35.1236,-119.4991,FAB002878,oil/gas tank,1B2 Oil & Natural Gas,3,0.33,0.6,28.8,7.5
+S00130,35.1151,-119.467,FLD000285,oil/gas gathering line,1B2 Oil & Natural Gas,7,0.29,0.9,29.3,8.8
+S00131,35.0412,-119.3841,FAB002602,oil/gas tank,1B2 Oil & Natural Gas,3,0.33,0.6,13.7,4
+S00132,35.0271,-119.3329,FAB001281,oil/gas tank,1B2 Oil & Natural Gas,3,0.33,0.6,23.9,3.9
+S00133,35.0615,-119.3909,FLD000285,oil/gas unknown infrastucture,1B2 Oil & Natural Gas,6,0.17,0.8,10.9,4.4
+S00135,35.0459,-119.3497,FLD000285,dairy/manure,3A2 Manure Management,3,0.33,0.6,24.3,5.3
+S00136,35.1325,-119.4866,FLD000285,oil/gas pumpjack,1B2 Oil & Natural Gas,4,0.25,0.7,14.6,4.6
+S00137,35.1309,-119.4865,FLD000285,oil/gas unknown infrastucture,1B2 Oil & Natural Gas,5,0.2,0.8,9.4,2.7
+S00141,33.7794,-118.2351,REF000025,refinery,1A1 Energy Industries,13,0.08,1,3.1,1.3
+S00145,33.8162,-118.2357,REF000021,refinery,1A1 Energy Industries,14,0.14,1,31.4,9
+S00149,35.2148,-119.2108,DAF001290,dairy/manure,3A2 Manure Management,13,0.38,1,100.2,32
+S00150,35.2438,-119.1574,DAF001256,dairy/manure,3A2 Manure Management,15,0.13,1,29.2,9.3
+S00151,35.2463,-119.1404,DAF001141,dairy/manure,3A2 Manure Management,8,0.38,0.9,41.8,11.6
+S00152,35.9013,-119.3199,DAF001759,dairy/manure,3A2 Manure Management,2,0.5,0.4,96.1,25.4
+S00153,34.9015,-117.16,COM000219,gas compressor,1B2 Oil & Natural Gas,3,0.33,0.6,62.6,10.1
+S00156,35.9593,-119.3722,DAF001916,dairy/manure,3A2 Manure Management,2,0.5,0.4,11.8,7.1
+S00159,35.9727,-119.359,DAF001404,dairy/manure,3A2 Manure Management,2,0.5,0.4,86.7,43.2
+S00160,35.9873,-119.3264,DAF000821,dairy/manure,3A2 Manure Management,2,0.5,0.4,67.1,26.1
+S00164,35.9739,-119.4391,DAF001523,dairy/manure,3A2 Manure Management,1,1,0.3,49,18.4
+S00165,36.0153,-119.2233,DAF000921,dairy/manure,3A2 Manure Management,1,1,0.3,35.3,13
+S00171,36.0289,-119.325,DAF000937,dairy/manure,3A2 Manure Management,2,0.5,0.4,20.3,6.5
+S00176,36.0216,-119.5195,DAF001287,dairy/manure,3A2 Manure Management,5,0.6,0.8,214.9,81.5
+S00177,36.0324,-119.5103,DAF001287,dairy/manure - digester,3A2 Manure Management,16,0.63,1,144.4,50.2
+S00178,36.0395,-119.398,DAF001009,dairy/manure,3A2 Manure Management,15,0.07,1,2.7,0.9
+S00181,36.0761,-119.1955,DAF000554,dairy/manure,3A2 Manure Management,1,1,0.3,46.4,26.4
+S00183,36.049,-119.4558,DAF000209,dairy/manure,3A2 Manure Management,8,0.13,0.9,14.5,3.7
+S00186,36.0879,-119.237,DAF000373,dairy/manure,3A2 Manure Management,2,0.5,0.4,47.8,23.2
+S00191,36.1158,-119.3621,DAF000514,dairy/manure,3A2 Manure Management,8,0.25,0.9,16.2,4.9
+S00192,36.1259,-119.3413,DAF001158,dairy/manure,3A2 Manure Management,11,0.09,1,6.4,2.6
+S00193,36.1162,-119.3342,DAF001588,dairy/manure,3A2 Manure Management,11,0.18,1,16.7,5.4
+S00194,36.1285,-119.4311,DAF000044,dairy/manure,3A2 Manure Management,4,0.25,0.7,22.3,4.1
+S00195,36.1563,-119.2404,DAF001917,dairy/manure,3A2 Manure Management,8,0.13,0.9,12.2,3.6
+S00196,36.1611,-119.2178,DAF001782,dairy/manure,3A2 Manure Management,1,1,0.3,66.4,10
+S00198,37.1233,-120.3635,DAF000550,dairy/manure,3A2 Manure Management,1,1,0.3,59.7,20.4
+S00199,37.1573,-120.3917,DAF001701,dairy/manure,3A2 Manure Management,2,0.5,0.4,411.1,140.1
+S00200,37.2087,-120.4638,DAF001367,dairy/manure,3A2 Manure Management,2,0.5,0.4,156.1,49.9
+S00201,37.1802,-120.4353,DAF001410,dairy/manure,3A2 Manure Management,2,0.5,0.4,53.9,31.9
+S00203,36.0333,-119.4048,DAF001516,dairy/manure,3A2 Manure Management,16,0.06,1,10.5,1.8
+S00204,36.0388,-119.3979,DAF001009,dairy/manure,3A2 Manure Management,15,0.27,1,63.3,23
+S00205,36.0532,-119.3977,DAF000529,dairy/manure,3A2 Manure Management,12,0.17,1,9.4,2.9
+S00206,36.2272,-119.1638,DAF000759,dairy/manure,3A2 Manure Management,8,0.13,0.9,14.9,5.5
+S00207,36.1567,-119.2831,DAF000328,dairy/manure,3A2 Manure Management,11,0.18,1,44.6,13.4
+S00208,36.2127,-119.199,DAF001248,dairy/manure,3A2 Manure Management,7,0.43,0.9,47.6,12.5
+S00209,36.0867,-119.3356,DAF000511,dairy/manure,3A2 Manure Management,9,0.11,0.9,13.4,1.1
+S00210,36.1154,-119.2907,DAF001378,dairy/manure,3A2 Manure Management,7,0.29,0.9,23.1,5.7
+S00211,36.1565,-119.2655,DAF001034,dairy/manure,3A2 Manure Management,10,0.2,0.9,64.6,18.8
+S00212,36.2289,-119.1633,DAF000759,dairy/manure,3A2 Manure Management,8,0.25,0.9,13.9,2.8
+S00213,36.232,-119.166,DAF000759,dairy/manure,3A2 Manure Management,11,0.18,1,13.8,2.4
+S00216,36.2259,-119.1636,DAF000759,dairy/manure,3A2 Manure Management,7,0.14,0.9,10,4.8
+S00217,36.2265,-119.1636,DAF000759,dairy/manure,3A2 Manure Management,7,0.14,0.9,18.2,6.7
+S00218,36.1203,-119.3147,DAF001912,dairy/manure,3A2 Manure Management,11,0.09,1,5.4,0.9
+S00219,36.1567,-119.2823,DAF000328,dairy/manure,3A2 Manure Management,9,0.33,0.9,54.8,14
+S00220,36.1025,-119.3735,DAF000113,dairy/manure,3A2 Manure Management,10,0.4,0.9,177.9,54.1
+S00221,36.1449,-119.265,DAF001312,dairy/manure,3A2 Manure Management,7,0.14,0.9,12.2,1.5
+S00222,36.156,-119.2399,DAF001917,dairy/manure,3A2 Manure Management,8,0.25,0.9,41.8,7.4
+S00223,36.2275,-119.1638,DAF000759,dairy/manure,3A2 Manure Management,8,0.13,0.9,44.7,12.3
+S00225,36.1696,-119.2752,DAF001634,dairy/manure,3A2 Manure Management,9,0.11,0.9,10.9,4.1
+S00226,36.1592,-119.2647,DAF001034,dairy/manure,3A2 Manure Management,13,0.08,1,13.1,1.2
+S00228,36.2275,-119.1638,DAF000759,dairy/manure,3A2 Manure Management,8,0.13,0.9,12.2,2
+S00229,36.0702,-119.3895,DAF000400,dairy/manure,3A2 Manure Management,13,0.08,1,14.5,5.6
+S00231,36.077,-119.3854,DAF001249,dairy/manure,3A2 Manure Management,12,0.17,1,81,46.3
+S00232,36.225,-119.1794,DAF001918,dairy/manure,3A2 Manure Management,7,0.14,0.9,13.8,2.4
+S00233,36.2265,-119.1802,DAF001918,dairy/manure,3A2 Manure Management,7,0.14,0.9,15.1,3.4
+S00238,36.3526,-119.4957,DAF000392,dairy/manure,3A2 Manure Management,3,0.33,0.6,46.8,8.9
+S00240,36.3876,-119.3265,DAF001354,dairy/manure,3A2 Manure Management,1,1,0.3,265.6,62.9
+S00244,36.3878,-119.4226,DAF000461,dairy/manure,3A2 Manure Management,1,1,0.3,228.5,33.4
+S00251,36.4124,-119.3673,DAF001186,dairy/manure,3A2 Manure Management,10,0.5,0.9,125.2,31.6
+S00252,36.3962,-119.5226,DAF000370,dairy/manure,3A2 Manure Management,1,1,0.3,108.9,34.1
+S00258,36.4545,-119.2816,DAF000381,dairy/manure,3A2 Manure Management,1,1,0.3,109.5,28.8
+S00259,36.4531,-119.399,DAF000717,dairy/manure,3A2 Manure Management,1,1,0.3,74.4,23.8
+S00260,36.4719,-119.2706,DAF000411,dairy/manure,3A2 Manure Management,1,1,0.3,143.7,17.8
+S00264,36.4719,-119.3431,DAF000515,dairy/manure,3A2 Manure Management,4,1,0.7,142.9,32.9
+S00270,36.4361,-120.0102,DAF000789,dairy/manure,3A2 Manure Management,1,1,0.3,153,18.4
+S00272,36.4827,-120.0742,DAF001468,dairy/manure,3A2 Manure Management,2,0.5,0.4,12.7,7.4
+S00273,36.4367,-119.9875,DAF000973,dairy/manure,3A2 Manure Management,1,1,0.3,105,36.4
+S00276,36.583,-120.055,DAF001809,dairy/manure,3A2 Manure Management,2,0.5,0.4,31.1,11.8
+S00277,36.5304,-119.9751,DAF001559,dairy/manure,3A2 Manure Management,2,0.5,0.4,22.2,16.7
+S00278,37.2696,-120.3694,DAF000446,dairy/manure,3A2 Manure Management,1,1,0.3,93.8,21.2
+S00280,37.2154,-120.4233,DAF001919,dairy/manure,3A2 Manure Management,1,1,0.3,158.5,72.9
+S00281,37.2332,-120.4562,DAF000777,dairy/manure,3A2 Manure Management,1,1,0.3,103.7,20.5
+S00284,37.1665,-120.3741,DAF000378,dairy/manure,3A2 Manure Management,1,1,0.3,169.1,20.6
+S00286,35.475,-119.4317,DAF001720,dairy/manure,3A2 Manure Management,21,0.1,1,22.5,4.4
+S00290,36.0492,-119.456,DAF000209,dairy/manure,3A2 Manure Management,8,0.25,0.9,20.5,4.4
+S00291,36.7927,-120.2528,NSF000002,gas storage facility,1B2 Oil & Natural Gas,17,0.76,1,190.5,55.1
+S00293,38.0207,-122.1156,REF000019,refinery,1A1 Energy Industries,7,0.14,0.9,9.8,4.3
+S00295,34.0235,-118.0345,LNG000020,gas LNG station,1B2 Oil & Natural Gas,8,0.13,0.9,32.2,7.8
+S00296,36.1824,-119.6593,DAF000293,dairy/manure,3A2 Manure Management,9,0.11,0.9,14.3,2.6
+S00299,35.3291,-119.6686,FLD000277,oil/gas unknown infrastucture,1B2 Oil & Natural Gas,11,0.91,1,196.8,56.4
+S00300,35.2749,-119.4775,FLD000140,gas processing plant,1B2 Oil & Natural Gas,19,0.32,1,198.7,53.8
+S00301,35.2682,-119.4574,LNF000456,oil/gas gathering line,1B2 Oil & Natural Gas,8,0.13,0.9,65.3,9.4
+S00302,35.2451,-119.3855,FLD000140,oil/gas gathering line,1B2 Oil & Natural Gas,7,0.14,0.9,55.8,11.1
+S00303,35.2828,-119.4968,FLD000140,oil/gas compressor,1B2 Oil & Natural Gas,18,0.06,1,13.2,2
+S00304,35.4552,-119.0488,FLD000207,oil/gas unknown infrastucture,1B2 Oil & Natural Gas,22,0.09,1,61.2,30.4
+S00307,35.2806,-119.4784,PWP000135,oil/gas compressor,1B2 Oil & Natural Gas,18,0.28,1,22.2,7.5
+S00312,33.9589,-117.6263,DAF000543,dairy/manure,3A2 Manure Management,1,1,0.3,81,16.6
+S00322,35.5117,-119.0745,FLD000344,oil/gas pumpjack,1B2 Oil & Natural Gas,13,0.46,1,80.5,21.7
+S00323,35.5156,-119.0758,FLD000344,oil/gas pumpjack,1B2 Oil & Natural Gas,15,0.4,1,101.2,30.9
+S00324,35.5183,-119.0782,FAB001490,oil/gas tank,1B2 Oil & Natural Gas,15,0.27,1,63.2,21.6
+S00325,35.534,-119.0832,FLD000344,oil/gas unknown infrastucture,1B2 Oil & Natural Gas,18,0.28,1,134.7,41.9
+S00326,35.457,-119.0546,FAB000412,oil/gas tank,1B2 Oil & Natural Gas,22,0.18,1,54,16.5
+S00327,35.4571,-119.0495,FLD000207,oil/gas unknown infrastucture,1B2 Oil & Natural Gas,20,0.05,1,29.9,6.9
+S00328,35.4554,-119.0498,FLD000207,oil/gas unknown infrastucture,1B2 Oil & Natural Gas,22,0.05,1,13.4,5.5
+S00329,35.5305,-119.0777,FLD000344,oil/gas pumpjack,1B2 Oil & Natural Gas,22,0.05,1,8.5,2.1
+S00330,35.4562,-119.0528,FLD000207,oil/gas unknown infrastucture,1B2 Oil & Natural Gas,22,0.05,1,36.4,10.3
+S00332,35.4591,-119.053,FLD000207,oil/gas pumpjack,1B2 Oil & Natural Gas,22,0.18,1,19.6,6.3
+S00333,35.5304,-119.08,FLD000344,oil/gas unknown infrastucture,1B2 Oil & Natural Gas,20,0.05,1,13.8,6.1
+S00337,33.8487,-118.3341,REF000006,refinery,1A1 Energy Industries,24,0.5,1,305.8,104.9
+S00342,35.5972,-118.9673,FAB003066,oil/gas tank,1B2 Oil & Natural Gas,4,0.25,0.7,65.5,18.7
+S00343,35.5971,-118.9671,FAB003066,oil/gas tank,1B2 Oil & Natural Gas,5,0.2,0.8,12.5,5.5
+S00344,35.4903,-118.8861,FLD000380,oil/gas unknown infrastucture,1B2 Oil & Natural Gas,4,0.25,0.7,57.8,9.9
+S00345,35.4927,-118.8905,FLD000380,oil/gas pumpjack,1B2 Oil & Natural Gas,4,0.25,0.7,26.9,21.5
+S00346,35.4924,-118.8971,FLD000380,oil/gas tank,1B2 Oil & Natural Gas,7,0.14,0.9,78.5,31.4
+S00347,35.4947,-118.8966,FLD000380,oil/gas gathering line,1B2 Oil & Natural Gas,7,0.14,0.9,14.5,7.1
+S00349,35.5158,-119.0386,FLD000207,oil/gas tank,1B2 Oil & Natural Gas,8,0.38,0.9,93.6,37
+S00350,35.5357,-119.0825,FLD000344,oil/gas pumpjack,1B2 Oil & Natural Gas,18,0.06,1,17.8,6.8
+S00352,35.4733,-119.0578,FAB003082,oil/gas tank,1B2 Oil & Natural Gas,20,0.15,1,31.2,10.5
+S00353,35.4627,-119.0507,LNF000335,oil/gas pumpjack,1B2 Oil & Natural Gas,13,0.15,1,22.5,6.5
+S00355,35.3752,-119.0808,REF000003,refinery,1A1 Energy Industries,6,0.33,0.8,53.1,15.4
+S00357,35.3717,-119.0769,REF000003,refinery,1A1 Energy Industries,6,0.17,0.8,27.6,5.4
+S00358,33.9245,-117.9545,NA,wastewater treatment,4D2 Industrial Wastewater Treatment & Discharge,9,0.11,0.9,4.3,2.3
+S00360,35.2816,-119.4808,PWP000135,oil/gas compressor,1B2 Oil & Natural Gas,18,0.28,1,33.7,16.7
+S00363,34.4508,-118.5992,NSF000003,oil/gas unknown infrastucture,1B2 Oil & Natural Gas,30,0.07,1,25.1,8.2
+S00364,35.4974,-119.0703,FLD000344,oil/gas pumpjack,1B2 Oil & Natural Gas,11,0.18,1,30,6.2
+S00365,35.5007,-119.0712,FLD000344,oil/gas pumpjack,1B2 Oil & Natural Gas,11,0.09,1,12.9,2.7
+S00366,35.5022,-119.0714,FLD000344,oil/gas pumpjack,1B2 Oil & Natural Gas,11,0.18,1,42.9,8.7
+S00367,35.5019,-119.0784,FLD000344,oil/gas pumpjack,1B2 Oil & Natural Gas,17,0.24,1,38.9,8.7
+S00368,35.5037,-119.0824,FLD000344,oil/gas pumpjack,1B2 Oil & Natural Gas,17,0.12,1,10.3,2.7
+S00369,35.5181,-119.0752,FLD000344,oil/gas pumpjack,1B2 Oil & Natural Gas,15,0.13,1,18.8,5.2
+S00370,35.5224,-119.0737,FLD000344,oil/gas pumpjack,1B2 Oil & Natural Gas,13,0.08,1,12,2.4
+S00371,35.5253,-119.0752,FLD000344,oil/gas pumpjack,1B2 Oil & Natural Gas,16,0.38,1,52.8,13.1
+S00372,35.4971,-118.8979,FLD000380,oil/gas pumpjack,1B2 Oil & Natural Gas,7,0.14,0.9,28.2,5.1
+S00373,35.5155,-119.0341,FLD000207,oil/gas pumpjack,1B2 Oil & Natural Gas,13,0.08,1,5.8,0.9
+S00374,35.4661,-118.9747,FLD000208,oil/gas pumpjack,1B2 Oil & Natural Gas,14,0.07,1,10.3,0.7
+S00375,35.4394,-118.9782,FLD000208,oil/gas gathering line,1B2 Oil & Natural Gas,7,0.14,0.9,21.3,3.6
+S00378,35.5402,-119.0922,FLD000344,oil/gas pumpjack,1B2 Oil & Natural Gas,11,0.09,1,18.4,6.1
+S00379,35.5426,-119.0925,FLD000344,oil/gas unknown infrastucture,1B2 Oil & Natural Gas,14,0.07,1,11.5,2.1
+S00380,35.5449,-119.0917,FLD000344,oil/gas unknown infrastucture,1B2 Oil & Natural Gas,12,0.08,1,8.2,2.1
+S00382,35.5293,-119.0811,FLD000344,oil/gas pumpjack,1B2 Oil & Natural Gas,15,0.13,1,27.6,6.6
+S00383,35.4804,-119.0818,FLD000344,oil/gas unknown infrastucture,1B2 Oil & Natural Gas,25,0.12,1,10,3.6
+S00384,35.5375,-119.0764,FLD000344,oil/gas pumpjack,1B2 Oil & Natural Gas,16,0.06,1,4.5,1.1
+S00385,35.5111,-119.0783,FLD000344,oil/gas unknown infrastucture,1B2 Oil & Natural Gas,22,0.14,1,17.8,4
+S00387,35.5037,-119.0765,FLD000344,oil/gas pumpjack,1B2 Oil & Natural Gas,16,0.13,1,25.3,6.1
+S00388,35.479,-119.0625,FLD000207,oil/gas pumpjack,1B2 Oil & Natural Gas,16,0.06,1,8.6,1.8
+S00389,35.5824,-119.7158,FLD000265,oil/gas unknown infrastucture,1B2 Oil & Natural Gas,3,0.33,0.6,15.8,6.9
+S00391,35.2604,-119.3923,FLD000140,oil/gas pumpjack,1B2 Oil & Natural Gas,11,0.09,1,23.1,6.8
+S00392,35.5038,-119.0733,FLD000344,oil/gas pumpjack,1B2 Oil & Natural Gas,15,0.07,1,10.4,2.4
+S00402,39.3484,-121.8205,COM000521,gas storage facility,1B2 Oil & Natural Gas,6,0.17,0.8,120.7,35.4
+S00403,37.9954,-121.478,NSF000010,gas storage facility,1B2 Oil & Natural Gas,17,0.12,1,11.2,4.1
+S00500,34.3078,-118.5499,NSF000001,gas storage facility,1B2 Oil & Natural Gas,60,0.23,1,46,16.6
+S00501,38.1598,-121.9058,NSF000004,gas storage facility,1B2 Oil & Natural Gas,4,0.25,0.7,25,4.5
+S00502,37.9953,-121.4781,NSF000010,gas storage facility,1B2 Oil & Natural Gas,17,0.65,1,212.5,93.6
+S00503,38.2016,-121.213,NSF000007,gas storage facility,1B2 Oil & Natural Gas,5,0.4,0.8,32.2,12.9
+S00504,35.2807,-119.4726,FAB002249,oil/gas unknown infrastucture,1B2 Oil & Natural Gas,18,0.06,1,48.2,9.2
+S00505,35.279,-119.476,PWP000135,oil/gas unknown infrastucture,1B2 Oil & Natural Gas,19,0.21,1,55.3,17.3
+S00506,35.2777,-119.4796,FLD000140,gas processing plant,1B2 Oil & Natural Gas,18,0.28,1,23.4,9.5
+S00507,35.0619,-119.0262,COM000278,oil/gas compressor,1B2 Oil & Natural Gas,16,0.5,1,537,139.4
+S00600,35.4963,-119.0088,COM000260,oil/gas unknown infrastucture,1B2 Oil & Natural Gas,10,0.1,0.9,27.4,1.5
+S00601,35.5092,-119.0362,FLD000207,oil/gas tank,1B2 Oil & Natural Gas,8,0.13,0.9,63.7,29.4
+S00602,35.5308,-119.0737,FLD000344,oil/gas unknown infrastucture,1B2 Oil & Natural Gas,15,0.07,1,32.5,7.9
+S00603,35.4856,-119.0611,FLD000207,oil/gas pumpjack,1B2 Oil & Natural Gas,9,0.11,0.9,15.8,4.5
+S00604,35.4883,-119.0677,FLD000207,oil/gas unknown infrastucture,1B2 Oil & Natural Gas,10,0.1,0.9,15.7,4.4
+S00605,33.9283,-118.4297,WWT000068,wastewater treatment,4D1 Domestic Wastewater Treatment & Discharge,12,0.08,1,22.3,9.9
+S00609,35.2646,-119.3994,FLD000140,oil/gas stack,1B2 Oil & Natural Gas,9,0.22,0.9,63.7,12.5
+S00610,35.1872,-119.1151,DAF001725,dairy/manure,3A2 Manure Management,21,0.29,1,70.8,29.4
+S00611,35.1868,-119.1019,DAF001565,dairy/manure,3A2 Manure Management,14,0.14,1,29.2,10.2
+S00612,35.4932,-119.4502,DAF001525,dairy/manure,3A2 Manure Management,9,0.22,0.9,27.7,9.5
+S00614,36.0439,-119.4562,DAF000209,dairy/manure,3A2 Manure Management,10,0.4,0.9,110.5,39.8
+S00616,36.4128,-119.3452,DAF001188,dairy/manure,3A2 Manure Management,5,0.8,0.8,81.5,7.7
+S00617,36.4115,-119.3661,DAF001186,dairy/manure,3A2 Manure Management,10,0.9,0.9,214.2,117.1
+S00618,38.3146,-121.8338,LNF000516,dairy/manure,3A2 Manure Management,4,0.25,0.7,240.5,80.3
+S00624,37.4312,-121.9486,LNF000442,wastewater treatment,4D1 Domestic Wastewater Treatment & Discharge,18,0.61,1,183.2,95
+S00642,33.765,-118.0993,PWP000179,powerplant,1A1 Energy Industries,9,0.22,0.9,20,8.1
+S00643,33.6394,-117.9566,WWT000087,wastewater treatment,4D1 Domestic Wastewater Treatment & Discharge,8,0.13,0.9,14.3,5.1
+S00644,33.7979,-118.2361,REF000020,oil/gas tank,1B2 Oil & Natural Gas,23,0.04,1,11.5,4.7
+S00645,33.7969,-118.2491,LNG000047,gas LNG station,1B2 Oil & Natural Gas,14,0.07,1,69.5,45.1
+S00646,33.8054,-118.244,REF000012,refinery,1A1 Energy Industries,22,0.05,1,2.4,1.5
+S00647,33.9401,-118.4253,LNG000021,gas LNG station,1B2 Oil & Natural Gas,15,0.13,1,53.3,14
+S00650,34.3179,-118.5733,NSF000001,oil/gas tank,1B2 Oil & Natural Gas,25,0.04,1,10.5,5.2
+S00652,33.7968,-118.2374,REF000020,oil/gas tank,1B2 Oil & Natural Gas,18,0.06,1,3.7,1.7
+S00653,33.7808,-118.2565,FAB003332,oil/gas tank,1B2 Oil & Natural Gas,9,0.33,0.9,36.9,13.7
+S00654,33.7751,-118.2888,REF000013,refinery,1A1 Energy Industries,11,0.36,1,89.8,47.1
+S00655,33.7744,-118.282,REF000013,refinery,1A1 Energy Industries,12,0.08,1,3.1,1.8
+S00657,35.395,-119.0531,FAB001844,oil/gas tank,1B2 Oil & Natural Gas,10,0.4,0.9,68.3,18.7
+S00658,35.4218,-119.0796,NA,gas distribution line,1B2 Oil & Natural Gas,7,0.57,0.9,93.2,28.3
+S00659,35.366,-119.6704,FLD000112,oil/gas gathering line,1B2 Oil & Natural Gas,7,0.71,0.9,149,26.7
+S00660,35.3766,-119.6843,FLD000112,oil/gas unknown infrastucture,1B2 Oil & Natural Gas,3,0.33,0.6,43.6,7.6
+S00661,35.2412,-119.5904,FLD000285,oil/gas unknown infrastucture,1B2 Oil & Natural Gas,7,0.14,0.9,32.9,3.9
+S00663,35.4174,-119.7027,FAB001671,oil/gas tank,1B2 Oil & Natural Gas,3,0.33,0.6,49.3,21.9
+S00669,35.1797,-119.4602,NPP000001,oil/gas pumpjack,1B2 Oil & Natural Gas,10,0.1,0.9,88.3,26.6
+S00670,35.1604,-119.3912,LNF000083,oil/gas unknown infrastucture,1B2 Oil & Natural Gas,10,0.1,0.9,58.8,11.6
+S00671,35.3984,-119.0488,FLD000156,oil/gas unknown infrastucture,1B2 Oil & Natural Gas,7,0.14,0.9,40.1,13.7
+S00672,35.327,-118.9616,WWT000003,dairy/manure,3A2 Manure Management,6,0.17,0.8,26.1,2.6
+S00673,35.2731,-119.4015,FLD000140,oil/gas unknown infrastucture,1B2 Oil & Natural Gas,12,0.08,1,37.5,5.6
+S00674,35.274,-119.393,FLD000140,oil/gas unknown infrastucture,1B2 Oil & Natural Gas,14,0.07,1,38.1,4.1
+S00677,34.3216,-119.3235,FLD000486,oil/gas unknown infrastucture,1B2 Oil & Natural Gas,7,0.14,0.9,67.8,26.4
+S00678,34.3374,-119.3808,FLD000362,oil/gas gathering line,1B2 Oil & Natural Gas,6,0.5,0.8,675.1,193.1
+S00680,35.2934,-119.5698,FLD000018,oil/gas gathering line,1B2 Oil & Natural Gas,11,0.09,1,8.9,2.6
+S00681,35.3144,-119.5762,FLD000140,oil/gas gathering line,1B2 Oil & Natural Gas,6,0.17,0.8,70.3,21.4
+S00684,38.0433,-122.251,REF000014,refinery,1A1 Energy Industries,15,0.27,1,138.4,73
+S00685,33.8159,-117.8635,NA,gas distribution line,1B2 Oil & Natural Gas,6,0.33,0.8,148.4,31.9
+S00686,33.7832,-118.2219,CNG000078,gas LNG station,1B2 Oil & Natural Gas,22,0.23,1,51.7,23
+S00687,33.9107,-117.1229,COM000494,gas compressor,1B2 Oil & Natural Gas,2,0.5,0.4,287.9,133.3
+S00689,35.4749,-119.4306,DAF001720,dairy/manure,3A2 Manure Management,21,0.19,1,12.2,5.6
+S00691,35.473,-119.4305,DAF001720,dairy/manure,3A2 Manure Management,21,0.1,1,34.7,9.7
+S00692,35.4734,-119.4322,DAF001720,dairy/manure,3A2 Manure Management,21,0.24,1,55.3,14.5
+S00694,35.2804,-119.5094,FLD000140,oil/gas unknown infrastucture,1B2 Oil & Natural Gas,18,0.17,1,18.3,6.4
+S00696,35.2777,-119.4796,FLD000140,oil/gas unknown infrastucture,1B2 Oil & Natural Gas,18,0.11,1,25.6,5.4
+S00697,35.2517,-119.5733,LNF000030,oil/gas tank,1B2 Oil & Natural Gas,5,1,0.8,126.7,36.6
+S00698,35.2605,-119.5749,FLD000285,oil/gas gathering line,1B2 Oil & Natural Gas,2,1,0.4,240.2,51.8
+S00700,36.251,-119.4848,DAF001380,dairy/manure,3A2 Manure Management,2,0.5,0.4,58.2,19.6
+S00701,36.2476,-119.4046,DAF000781,dairy/manure,3A2 Manure Management,2,0.5,0.4,62.9,7.9
+S00702,36.2371,-119.5718,DAF000848,dairy/manure,3A2 Manure Management,2,0.5,0.4,57.8,15.6
+S00703,36.1886,-119.6775,DAF001320,dairy/manure - digester,3A2 Manure Management,8,0.13,0.9,24.7,10.7
+S00704,36.1825,-119.6783,DAF001320,dairy/manure - digester,3A2 Manure Management,8,0.13,0.9,57.9,14.7
+S00707,35.2507,-119.4048,FLD000140,oil/gas gathering line,1B2 Oil & Natural Gas,5,0.2,0.8,34.9,7.4
+S00708,35.2548,-119.3814,FLD000140,oil/gas unknown infrastucture,1B2 Oil & Natural Gas,5,0.2,0.8,28.5,9
+S00709,35.5258,-119.0794,FAB001439,oil/gas tank,1B2 Oil & Natural Gas,15,0.13,1,34.7,7.8
+S00710,35.531,-119.0722,FLD000344,oil/gas unknown infrastucture,1B2 Oil & Natural Gas,14,0.07,1,8.4,0.4
+S00711,35.5192,-119.0774,FAB001489,oil/gas tank,1B2 Oil & Natural Gas,15,0.07,1,17.3,2
+S00712,35.4193,-119.0083,REF000023,oil/gas tank,1B2 Oil & Natural Gas,14,0.21,1,34.4,9.7
+S00713,35.1659,-119.0998,DAF000177,dairy/manure,3A2 Manure Management,35,0.09,1,6.5,1.3
+S00714,35.3209,-119.5209,FAB002269,oil/gas tank,1B2 Oil & Natural Gas,5,0.6,0.8,244.4,60
+S00716,35.3142,-119.5762,FLD000140,oil/gas unknown infrastucture,1B2 Oil & Natural Gas,6,0.17,0.8,98.3,22.1
+S00717,35.2716,-119.409,FLD000140,oil/gas gathering line,1B2 Oil & Natural Gas,11,0.09,1,11.2,7.5
+S00718,35.2492,-119.1171,DAF001675,dairy/manure - digester,3A2 Manure Management,8,0.13,0.9,42.4,17.6
+S00719,35.2143,-119.2034,DAF000983,dairy/manure - digester,3A2 Manure Management,11,0.36,1,60.8,10.5
+S00720,35.203,-119.1979,DAF001627,dairy/manure - digester,3A2 Manure Management,11,0.27,1,95.6,38.1
+S00721,35.2744,-119.3773,FLD000140,oil/gas pumpjack,1B2 Oil & Natural Gas,8,0.13,0.9,49,29.3
+S00722,35.2956,-119.5922,PWP000215,oil/gas pumpjack,1B2 Oil & Natural Gas,7,0.14,0.9,73.6,22.4
+S00723,35.2966,-119.5375,FLD000140,oil/gas unknown infrastucture,1B2 Oil & Natural Gas,10,0.1,0.9,43.3,3.1
+S00724,38.7769,-121.8822,CMP000274,compost,4A1 Managed Waste Disposal Sites,4,1,0.7,794.6,187.2
+S00725,37.8608,-120.9634,DAF000658,dairy/manure,3A2 Manure Management,4,0.5,0.7,65.1,24.5
+S00726,37.8674,-121.0381,DAF001714,dairy/manure,3A2 Manure Management,2,0.5,0.4,95.9,22.4
+S00727,37.8727,-121.0573,DAF000488,dairy/manure,3A2 Manure Management,2,0.5,0.4,63.7,36.2
+S00728,37.8088,-121.03,DAF000637,dairy/manure,3A2 Manure Management,2,0.5,0.4,101.9,17.6
+S00729,37.8253,-121.0744,DAF000330,dairy/manure,3A2 Manure Management,6,0.17,0.8,82.4,25
+S00732,38.0357,-122.2544,REF000014,refinery,1A1 Energy Industries,13,0.23,1,16.3,7.6
+S00733,37.4244,-121.9321,PWP000230,powerplant,1A1 Energy Industries,8,0.38,0.9,41.2,14.8
+S00734,37.4296,-121.9485,LNF000442,wastewater treatment,4D1 Domestic Wastewater Treatment & Discharge,19,0.05,1,9.6,2.9
+S00740,34.7139,-114.4934,COM000472,gas compressor,1B2 Oil & Natural Gas,1,1,0.3,40.7,19.4
+S00742,35.2546,-119.2858,NPP000024,gas processing plant,1B2 Oil & Natural Gas,1,1,0.3,96.5,13.9
+S00743,35.414,-119.2013,DAF000035,dairy/manure,3A2 Manure Management,2,0.5,0.4,75.2,26.7
+S00744,35.3175,-119.6711,FLD000277,oil/gas pumpjack,1B2 Oil & Natural Gas,12,0.42,1,80.1,29.7
+S00745,35.3189,-119.6664,FLD000277,oil/gas unknown infrastucture,1B2 Oil & Natural Gas,11,0.45,1,49,12.5
+S00746,35.3187,-119.6601,FLD000277,oil/gas unknown infrastucture,1B2 Oil & Natural Gas,11,0.09,1,15,3.9
+S00747,35.3067,-119.7093,FLD000023,oil/gas unknown infrastucture,1B2 Oil & Natural Gas,3,0.33,0.6,69.3,34.1
+S00748,35.3009,-119.6904,FLD000023,oil/gas unknown infrastucture,1B2 Oil & Natural Gas,4,0.25,0.7,16.2,6.1
+S00749,34.4449,-118.5874,NSF000003,gas storage facility,1B2 Oil & Natural Gas,66,0.06,1,10.6,2.6
+S00751,35.4899,-119.0309,FLD000207,oil/gas gathering line,1B2 Oil & Natural Gas,10,0.1,0.9,18.4,7
+S00753,35.3984,-119.1765,UNKNOWN,oil/gas tank,1B2 Oil & Natural Gas,6,0.33,0.8,62.2,15.8
+S00754,35.4919,-118.8971,FAB002140,oil/gas tank,1B2 Oil & Natural Gas,7,0.14,0.9,47.9,7.8
+S00755,35.6032,-119.7053,FAB000823,oil/gas tank,1B2 Oil & Natural Gas,3,0.67,0.6,224.2,56.1
+S00760,34.4459,-118.5868,NSF000003,gas storage facility,1B2 Oil & Natural Gas,66,0.03,1,3.4,1
+S00772,34.3127,-118.5507,NSF000001,oil/gas drill rig,1B2 Oil & Natural Gas,48,0.02,1,5.1,3
+S00773,34.3214,-118.5823,NSF000001,oil/gas pumpjack,1B2 Oil & Natural Gas,29,0.07,1,50.2,10.7
+S00775,35.369,-119.1813,NA,gas distribution line,1B2 Oil & Natural Gas,1,1,0.3,39.8,17.4
+S00776,35.4946,-118.8967,FLD000380,oil/gas gathering line,1B2 Oil & Natural Gas,7,0.14,0.9,35.5,7.5
+S00778,39.5606,-122.0372,FLD000506,oil/gas unknown infrastucture,1B2 Oil & Natural Gas,1,1,0.3,176,34.7
+S00780,35.4138,-119.6994,FLD000028,oil/gas gathering line,1B2 Oil & Natural Gas,3,0.33,0.6,115.8,25.8
+S00781,35.4169,-119.7023,FLD000028,oil/gas tank,1B2 Oil & Natural Gas,3,0.33,0.6,210.3,66.9
+S00782,34.3946,-118.8199,NA,compost,4A1 Managed Waste Disposal Sites,3,1,0.6,467.8,237.4
+S00783,35.3173,-119.255,FAB001798,oil/gas tank,1B2 Oil & Natural Gas,1,1,0.3,66.1,7.9
+S00784,33.8632,-118.2445,FAB002313,oil/gas unknown infrastucture,1B2 Oil & Natural Gas,11,0.18,1,67.3,33.7
+S00785,33.842,-118.2375,REF000018,refinery,1A1 Energy Industries,13,0.08,1,4,2.2
+S00786,33.8138,-118.236,REF000021,refinery,1A1 Energy Industries,16,0.13,1,19.8,5.7
+S00788,33.8172,-118.2355,REF000021,refinery,1A1 Energy Industries,14,0.21,1,26.3,9.3
+S00789,33.7403,-118.1391,FAB002851,oil/gas unknown infrastucture,1B2 Oil & Natural Gas,4,0.25,0.7,13.6,3.6
+S00790,36.1638,-120.395,FLD000090,oil/gas gathering line,1B2 Oil & Natural Gas,4,0.5,0.7,87.5,16.5
+S00791,36.2415,-120.3717,FLD000090,oil/gas unknown infrastucture,1B2 Oil & Natural Gas,4,0.25,0.7,52,13.6
+S00792,36.0739,-120.1485,FLD000212,oil/gas unknown infrastucture,1B2 Oil & Natural Gas,3,0.33,0.6,32.3,6.9
+S00794,37.4511,-120.7728,DAF000842,dairy/manure,3A2 Manure Management,4,0.75,0.7,281.5,123.9
+S00795,37.474,-120.7717,DAF000458,dairy/manure,3A2 Manure Management,1,1,0.3,218.2,46.3
+S00797,35.3645,-119.6707,FLD000112,oil/gas gathering line,1B2 Oil & Natural Gas,7,0.14,0.9,41.2,10
+S00802,33.9133,-118.4111,REF000005,refinery,1A1 Energy Industries,16,0.06,1,8.7,3.4
+S00810,33.9279,-118.4292,WWT000068,wastewater treatment,4D1 Domestic Wastewater Treatment & Discharge,12,0.17,1,61.9,19.9
+S00816,38.932,-121.916,FLD000042,oil/gas tank,1B2 Oil & Natural Gas,1,1,0.3,92,26.3
+S00817,38.9387,-121.9152,FLD000042,oil/gas unknown infrastucture,1B2 Oil & Natural Gas,1,1,0.3,70.7,21.8
+S00819,33.6466,-117.9782,FLD000308,oil/gas unknown infrastucture,1B2 Oil & Natural Gas,8,0.13,0.9,74.4,36.5
+S00820,33.6382,-117.957,WWT000087,wastewater treatment,4D1 Domestic Wastewater Treatment & Discharge,7,0.14,0.9,58.5,31.7
+S00821,34.0055,-118.3763,FLD000199,oil/gas unknown infrastucture,1B2 Oil & Natural Gas,8,0.25,0.9,12.5,5.8
+S00822,34.0052,-118.3768,FLD000199,oil/gas unknown infrastucture,1B2 Oil & Natural Gas,8,0.13,0.9,36.8,12.3
+S00823,34.0117,-118.3745,FLD000199,oil/gas unknown infrastucture,1B2 Oil & Natural Gas,6,0.17,0.8,53.9,11
+S00826,35.496,-119.009,COM000260,oil/gas stack,1B2 Oil & Natural Gas,10,0.2,0.9,41.6,16.1
+S00827,35.4733,-119.0582,FAB003082,oil/gas tank,1B2 Oil & Natural Gas,19,0.32,1,58.4,18.8
+S00828,35.5093,-119.0365,FLD000207,oil/gas tank,1B2 Oil & Natural Gas,8,0.25,0.9,107.2,11
+S00829,35.531,-119.0743,FLD000344,oil/gas tank,1B2 Oil & Natural Gas,17,0.06,1,17.7,16.8
+S00830,35.5625,-119.0988,FAB001856,oil/gas tank,1B2 Oil & Natural Gas,6,0.17,0.8,15.9,2.8
+S00832,35.5351,-119.0843,FLD000344,oil/gas unknown infrastucture,1B2 Oil & Natural Gas,19,0.05,1,5.4,1.5
+S00833,35.554,-119.0961,FAB001479,oil/gas unknown infrastucture,1B2 Oil & Natural Gas,7,0.14,0.9,18.9,3.7
+S00834,35.454,-119.018,FLD000208,oil/gas pumpjack,1B2 Oil & Natural Gas,9,0.11,0.9,27.3,3.8
+S00835,35.4431,-119.0031,FLD000208,oil/gas pumpjack,1B2 Oil & Natural Gas,8,0.13,0.9,20,4.4
+S00836,35.4418,-119.0037,FLD000208,oil/gas pumpjack,1B2 Oil & Natural Gas,8,0.13,0.9,11.2,0.9
+S00839,35.4706,-119.0394,FAB003100,oil/gas tank,1B2 Oil & Natural Gas,9,0.11,0.9,16.8,1.7
+S00840,35.5365,-119.0779,FAB001430,oil/gas tank,1B2 Oil & Natural Gas,16,0.13,1,53.4,19.5
+S00841,35.5539,-119.0969,FAB001479,oil/gas tank,1B2 Oil & Natural Gas,7,0.14,0.9,42,13.2
+S00842,35.4372,-119.0091,FAB001035,oil/gas tank,1B2 Oil & Natural Gas,9,0.11,0.9,16.8,1.5
+S00845,37.5289,-120.9541,DAF000451,dairy/manure,3A2 Manure Management,5,0.4,0.8,120.8,33.3
+S00846,37.5363,-120.952,DAF000032,dairy/manure,3A2 Manure Management,4,1,0.7,212.9,138.8
+S00847,37.5693,-120.9772,DAF001102,dairy/manure,3A2 Manure Management,1,1,0.3,79.8,33.7
+S00848,32.7808,-117.0435,WWT000149,wastewater treatment,4D1 Domestic Wastewater Treatment & Discharge,2,0.5,0.4,50,11.1
+S00850,37.8357,-121.2686,NA,oil/gas tank,1B2 Oil & Natural Gas,1,1,0.3,96.4,26.9
+S00852,33.8456,-118.2381,REF000018,refinery,1A1 Energy Industries,13,0.08,1,65.8,30.9
+S00853,35.5622,-119.6967,FLD000265,oil/gas pumpjack,1B2 Oil & Natural Gas,3,0.33,0.6,33.1,12.2
+S00855,35.6424,-119.7466,FLD000265,oil/gas unknown infrastucture,1B2 Oil & Natural Gas,3,0.33,0.6,67.8,13.5
+S00858,35.3026,-119.6898,FLD000023,oil/gas gathering line,1B2 Oil & Natural Gas,3,0.67,0.6,344.3,165.6
+S00861,35.3165,-119.6716,FLD000277,oil/gas pumpjack,1B2 Oil & Natural Gas,10,0.4,0.9,46.6,14.5
+S00862,35.3162,-119.6699,FLD000277,oil/gas pumpjack,1B2 Oil & Natural Gas,10,0.5,0.9,43.2,11.1
+S00865,35.2931,-119.5697,FLD000018,oil/gas gathering line,1B2 Oil & Natural Gas,11,0.36,1,117.2,47.6
+S00866,35.3133,-119.5678,FLD000140,oil/gas pumpjack,1B2 Oil & Natural Gas,6,0.17,0.8,14.1,10.8
+S00868,35.2735,-119.3936,FLD000140,oil/gas unknown infrastucture,1B2 Oil & Natural Gas,13,0.08,1,20.2,6.2
+S00869,35.347,-119.6575,FLD000112,oil/gas unknown infrastucture,1B2 Oil & Natural Gas,8,0.63,0.9,27.7,17.8
+S00870,35.3238,-119.6774,FLD000277,oil/gas unknown infrastucture,1B2 Oil & Natural Gas,6,0.17,0.8,19.4,6.9
+S00871,35.023,-119.0737,NA,oil/gas gathering line,1B2 Oil & Natural Gas,7,0.29,0.9,360,115.6
+S00873,34.9932,-119.0918,FAB003025,oil/gas tank,1B2 Oil & Natural Gas,2,0.5,0.4,217.6,58.9
+S00874,35.2539,-119.5868,FLD000285,oil/gas gathering line,1B2 Oil & Natural Gas,8,0.63,0.9,120,37.4
+S00875,35.2479,-119.5809,LNF000030,oil/gas gathering line,1B2 Oil & Natural Gas,6,0.17,0.8,30.8,13.2
+S00876,35.0798,-119.3715,FLD000285,oil/gas gathering line,1B2 Oil & Natural Gas,3,0.33,0.6,46.6,13.4
+S00877,35.1151,-119.4668,FLD000285,oil/gas gathering line,1B2 Oil & Natural Gas,7,0.14,0.9,24.7,3.4
+S00878,35.1311,-119.4866,FLD000285,oil/gas gathering line,1B2 Oil & Natural Gas,5,0.2,0.8,26.4,3.7
+S00879,35.2781,-119.6008,FLD000285,oil/gas possible plugged well,1B2 Oil & Natural Gas,8,0.13,0.9,9.7,0.8
+S00880,35.3597,-119.6606,FLD000112,oil/gas pumpjack,1B2 Oil & Natural Gas,10,0.5,0.9,166.9,13.1
+S00883,35.4297,-119.6901,FAB000055,oil/gas tank,1B2 Oil & Natural Gas,3,0.33,0.6,64,13.5
+S00885,35.3417,-119.646,FAB001908,oil/gas unknown infrastucture,1B2 Oil & Natural Gas,4,0.25,0.7,47.9,13.5
+S00886,35.2479,-119.5813,LNF000030,oil/gas unknown infrastucture,1B2 Oil & Natural Gas,6,0.17,0.8,131.3,51.3
+S00887,35.2657,-119.5943,FLD000285,oil/gas unknown infrastucture,1B2 Oil & Natural Gas,3,0.33,0.6,106.9,48
+S00890,35.0615,-119.3907,FLD000285,oil/gas unknown infrastucture,1B2 Oil & Natural Gas,6,0.33,0.8,35.1,4.6
+S00891,35.1017,-119.4594,FLD000285,oil/gas unknown infrastucture,1B2 Oil & Natural Gas,3,0.33,0.6,129.9,17
+S00892,37.6275,-120.9319,PWP000247,powerplant,1A1 Energy Industries,1,1,0.3,113.4,57.6
+S00893,36.8046,-121.7772,PWP000126,powerplant,1A1 Energy Industries,1,1,0.3,85.1,29.1
+S00894,34.3974,-118.6432,NPP000020,oil/gas gathering line,1B2 Oil & Natural Gas,3,0.33,0.6,25.3,11.9
+S00897,33.8513,-118.3316,REF000006,refinery,1A1 Energy Industries,18,0.17,1,8,2.9
+S00899,33.8473,-118.3188,REF000006,refinery,1A1 Energy Industries,14,0.07,1,11.1,2.9
+S00902,38.0132,-121.8579,NA,oil/gas unknown infrastucture,1B2 Oil & Natural Gas,4,0.25,0.7,54.6,18.1
+S00903,35.5185,-119.0781,FAB001490,oil/gas pumpjack,1B2 Oil & Natural Gas,15,0.07,1,15.2,1.7
+S00904,35.4814,-119.0781,FAB001486,oil/gas tank,1B2 Oil & Natural Gas,27,0.07,1,24.1,4.3
+S00905,33.8511,-118.3947,PWP000006,powerplant,1A1 Energy Industries,13,0.08,1,6.3,1.6
+S00908,38.0404,-122.2518,REF000014,refinery,1A1 Energy Industries,17,0.18,1,3.5,2.6
+S00910,35.4388,-119.1324,FAB001249,oil/gas tank,1B2 Oil & Natural Gas,3,0.33,0.6,16.5,5.3
+S00911,35.4346,-119.1411,NPP000011,oil/gas unknown infrastucture,1B2 Oil & Natural Gas,5,0.2,0.8,34.5,4.9
+S00914,32.6943,-117.1465,PWP000051,powerplant,1A1 Energy Industries,1,1,0.3,515.4,104.7
+S00916,35.138,-119.3034,COM000450,oil/gas unknown infrastucture,1B2 Oil & Natural Gas,2,0.5,0.4,148.4,37.4
+S00917,35.4326,-119.1434,NPP000011,oil/gas tank,1B2 Oil & Natural Gas,4,0.25,0.7,28.3,8.7
+S00918,33.8112,-118.1748,NPP000023,gas processing plant,1B2 Oil & Natural Gas,5,0.2,0.8,105.6,48.5
+S00919,37.953,-122.3994,REF000004,refinery,1A1 Energy Industries,13,0.31,1,48.9,26.9
+S00921,37.4945,-120.9646,DAF001399,dairy/manure,3A2 Manure Management,2,0.5,0.4,71.9,28.2
+S00922,37.4945,-120.9812,DAF001016,dairy/manure,3A2 Manure Management,2,0.5,0.4,27.6,9.3
+S00923,34.3382,-119.0129,FLD000428,oil/gas gathering line,1B2 Oil & Natural Gas,2,0.5,0.4,202.1,25.1
+S00924,34.3618,-118.9222,FLD000020,oil/gas unknown infrastucture,1B2 Oil & Natural Gas,3,0.33,0.6,38.4,5.8
+S00925,34.2617,-118.4076,NA,gas distribution line,1B2 Oil & Natural Gas,2,0.5,0.4,45.8,10.6
+S00927,34.2469,-118.3898,COM000488,powerplant,1A1 Energy Industries,2,0.5,0.4,47.9,14
+S00929,34.429,-118.5899,WWT000060,wastewater treatment,4D1 Domestic Wastewater Treatment & Discharge,20,0.3,1,19.3,8.1
+S00930,34.2985,-119.2996,COM000288,oil/gas compressor,1B2 Oil & Natural Gas,4,0.25,0.7,86,20.1
+S00932,35.0122,-118.9624,FLD000454,oil/gas unknown infrastucture,1B2 Oil & Natural Gas,4,0.25,0.7,283.3,33.4
+S00934,33.805,-118.2724,FLD000507,oil/gas pumpjack,1B2 Oil & Natural Gas,12,0.08,1,84.1,21.1
+S00935,33.7747,-118.2905,REF000013,refinery,1A1 Energy Industries,11,0.09,1,71.2,19.5
+S00936,33.8042,-118.2439,REF000012,refinery,1A1 Energy Industries,19,0.26,1,57.7,29
+S00938,33.8051,-118.2459,REF000012,refinery,1A1 Energy Industries,19,0.05,1,3.1,1
+S00939,33.7835,-118.2344,REF000025,refinery,1A1 Energy Industries,16,0.06,1,14.1,5.2
+S00940,33.7763,-118.2292,REF000025,refinery,1A1 Energy Industries,13,0.15,1,17.2,9
+S00941,33.8045,-118.2445,REF000012,refinery,1A1 Energy Industries,20,0.15,1,48.8,21.6
+S00943,33.8036,-118.2847,WWT000059,wastewater treatment,4D1 Domestic Wastewater Treatment & Discharge,13,0.23,1,75.8,36.5
+S00944,33.8023,-118.2793,WWT000059,wastewater treatment,4D1 Domestic Wastewater Treatment & Discharge,18,0.06,1,2.2,1.3
+S00947,37.9191,-122.3667,NA,gas LNG station,1B2 Oil & Natural Gas,7,0.14,0.9,7.4,2.7
+S00949,35.4788,-119.7541,NPP000003,oil/gas unknown infrastucture,1B2 Oil & Natural Gas,3,0.33,0.6,191.8,87.9
+S00951,35.3067,-119.71,FLD000023,oil/gas unknown infrastucture,1B2 Oil & Natural Gas,3,0.33,0.6,48.3,16
+S00953,35.4377,-119.0089,FLD000208,oil/gas unknown infrastucture,1B2 Oil & Natural Gas,8,0.13,0.9,15.7,4.1
+S00954,35.4426,-119.0006,FLD000208,oil/gas unknown infrastucture,1B2 Oil & Natural Gas,8,0.13,0.9,11.5,2.7
+S00957,36.1489,-119.278,DAF000328,dairy/manure,3A2 Manure Management,14,0.07,1,8,3.4
+S00958,36.2256,-119.1644,DAF000759,dairy/manure,3A2 Manure Management,7,0.14,0.9,23.6,9.8
+S00959,36.2286,-119.1659,DAF000759,dairy/manure,3A2 Manure Management,7,0.14,0.9,14.9,4.5
+S00960,36.2313,-119.1642,DAF000759,dairy/manure,3A2 Manure Management,8,0.13,0.9,27.5,11.3
+S00962,33.8187,-118.2361,REF000021,refinery,1A1 Energy Industries,12,0.08,1,21.4,12.7
+S00967,35.2018,-119.0538,DAF000159,dairy/manure,3A2 Manure Management,11,0.09,1,4.3,0.6
+S00968,35.2014,-119.0499,DAF000800,dairy/manure,3A2 Manure Management,16,0.06,1,4.6,0.8
+S00969,35.2824,-119.4735,FLD000140,oil/gas unknown infrastucture,1B2 Oil & Natural Gas,19,0.26,1,28.1,10.3
+S00970,35.2881,-119.4219,FLD000140,oil/gas pumpjack,1B2 Oil & Natural Gas,6,0.17,0.8,26.8,12.9
+S00972,35.2849,-119.4841,FLD000140,oil/gas unknown infrastucture,1B2 Oil & Natural Gas,16,0.06,1,9,0.9
+S00973,35.2967,-119.5374,FLD000140,oil/gas unknown infrastucture,1B2 Oil & Natural Gas,10,0.4,0.9,62.4,27
+S00974,35.2647,-119.4127,FLD000140,oil/gas gathering line,1B2 Oil & Natural Gas,11,0.09,1,17.7,13.5
+S00975,35.2783,-119.4829,FLD000140,gas processing plant,1B2 Oil & Natural Gas,19,0.05,1,9.5,2.3
+S00976,35.1872,-119.1119,DAF001725,dairy/manure,3A2 Manure Management,17,0.12,1,9.7,4.2
+S00977,35.2073,-119.1715,DAF001100,dairy/manure,3A2 Manure Management,13,0.08,1,8.6,4.2
+S00978,33.9264,-118.4303,WWT000068,wastewater treatment,4D1 Domestic Wastewater Treatment & Discharge,12,0.08,1,2.2,1.5
+S00979,35.2013,-119.0528,DAF000159,dairy/manure,3A2 Manure Management,12,0.17,1,19.6,4.6
+S00980,35.2027,-119.1726,DAF001100,dairy/manure,3A2 Manure Management,16,0.06,1,6.8,4.5
+S00981,35.4779,-119.4479,DAF001130,dairy/manure,3A2 Manure Management,18,0.06,1,4.4,0.4
+S00982,35.9353,-119.3988,DAF000236,dairy/manure,3A2 Manure Management,2,0.5,0.4,391.6,114.1
+S00983,35.9463,-119.398,DAF000009,dairy/manure,3A2 Manure Management,2,0.5,0.4,133.7,42.2
+S00984,36.0293,-119.3358,DAF000937,dairy/manure,3A2 Manure Management,6,0.17,0.8,20.2,6.4
+S00986,35.9573,-119.3729,DAF001916,dairy/manure,3A2 Manure Management,2,0.5,0.4,309,198.7
+S00987,35.9728,-119.3611,DAF001404,dairy/manure,3A2 Manure Management,2,0.5,0.4,55.9,9.8
+S00988,36.0586,-119.3797,DAF000969,dairy/manure,3A2 Manure Management,12,0.08,1,13,3.7
+S00989,36.0723,-119.3641,DAF001711,dairy/manure,3A2 Manure Management,18,0.06,1,15.3,4.5
+S00990,36.0815,-119.3372,DAF000511,dairy/manure,3A2 Manure Management,10,0.1,0.9,6.8,4.1
+S00993,36.184,-119.2194,DAF001356,dairy/manure,3A2 Manure Management,10,0.1,0.9,4.2,1.3
+S00994,36.0611,-119.4021,DAF001731,dairy/manure,3A2 Manure Management,11,0.09,1,179.1,64.3
+S00996,36.0478,-119.456,DAF000209,dairy/manure,3A2 Manure Management,8,0.13,0.9,27.8,2.9
+S00997,36.1594,-119.283,DAF001390,dairy/manure,3A2 Manure Management,9,0.11,0.9,14,2.9
+S00998,36.2072,-119.759,DAF001295,dairy/manure,3A2 Manure Management,2,0.5,0.4,74,12.3
+S01000,37.8676,-121.0352,DAF001714,dairy/manure,3A2 Manure Management,2,0.5,0.4,13.4,3.5
+S01001,37.8506,-121.113,DAF001679,dairy/manure,3A2 Manure Management,3,0.33,0.6,28.1,9.3
+S01007,37.0734,-120.3923,UNKNOWN,dairy/manure,3A2 Manure Management,1,1,0.3,41.8,18
+S01008,37.0585,-120.4914,DAF001706,dairy/manure,3A2 Manure Management,1,1,0.3,294.2,124.6
+S01009,36.0451,-119.4561,DAF000209,dairy/manure,3A2 Manure Management,9,0.11,0.9,51.3,18
+S01011,35.1874,-119.1135,DAF001725,dairy/manure,3A2 Manure Management,17,0.18,1,40.6,12.7
+S01014,35.1777,-119.1249,DAF000259,dairy/manure,3A2 Manure Management,15,0.07,1,5.5,5
+S01017,35.2685,-119.3823,FLD000140,oil/gas pumpjack,1B2 Oil & Natural Gas,11,0.09,1,6.9,5.8
+S01018,35.2674,-119.4086,FLD000140,oil/gas pumpjack,1B2 Oil & Natural Gas,12,0.25,1,19.3,13.8
+S01019,35.2787,-119.4569,LNF000456,oil/gas unknown infrastucture,1B2 Oil & Natural Gas,18,0.17,1,7.9,5.9
+S01022,35.2952,-119.528,FLD000140,oil/gas gathering line,1B2 Oil & Natural Gas,10,0.3,0.9,10.9,7.7
+S01023,35.3006,-119.5438,FLD000140,oil/gas unknown infrastucture,1B2 Oil & Natural Gas,9,0.11,0.9,6.6,4.5
+S01024,35.3055,-119.5654,FLD000140,oil/gas unknown infrastucture,1B2 Oil & Natural Gas,11,0.09,1,9.6,6.9
+S01025,35.2824,-119.5062,FLD000140,oil/gas compressor,1B2 Oil & Natural Gas,18,0.17,1,4.5,3.4
+S01026,35.2864,-119.5103,FLD000140,oil/gas compressor,1B2 Oil & Natural Gas,15,0.2,1,6.1,4.3
+S01027,35.2793,-119.4373,FLD000140,oil/gas unknown infrastucture,1B2 Oil & Natural Gas,17,0.06,1,2.8,1.3
+S01034,35.4769,-119.3728,DAF000540,dairy/manure,3A2 Manure Management,10,0.1,0.9,6.2,2.1
+S01035,35.4921,-119.3759,DAF000112,dairy/manure,3A2 Manure Management,9,0.11,0.9,4.9,0.9
+S01036,35.2046,-119.1979,DAF001627,dairy/manure,3A2 Manure Management,11,0.09,1,24.2,3.4
+S01037,35.2155,-119.205,DAF000983,dairy/manure,3A2 Manure Management,12,0.08,1,54.4,10.9
+S01038,35.2154,-119.2129,DAF001290,dairy/manure,3A2 Manure Management,12,0.08,1,35.4,11.8
+S01039,35.2014,-119.0519,DAF000800,dairy/manure,3A2 Manure Management,12,0.17,1,33.6,9.9
+S01040,35.2463,-119.1415,DAF001141,dairy/manure,3A2 Manure Management,8,0.13,0.9,43.6,7.4
+S01041,35.2861,-119.1406,FLD000063,oil/gas unknown infrastucture,1B2 Oil & Natural Gas,8,0.25,0.9,151.6,57.8
+S01042,35.4791,-119.447,DAF001130,dairy/manure,3A2 Manure Management,19,0.05,1,6.1,1.7
+S01043,35.494,-119.4504,DAF001525,dairy/manure,3A2 Manure Management,9,0.11,0.9,16.7,5.4
+S01044,35.4517,-119.3765,DAF001590,dairy/manure,3A2 Manure Management,7,0.14,0.9,8.7,3.4
+S01045,35.25,-119.1162,DAF001675,dairy/manure,3A2 Manure Management,8,0.13,0.9,13.6,2.6
+S01046,35.1887,-119.1159,DAF001725,dairy/manure,3A2 Manure Management,15,0.2,1,30.2,14.7
+S01047,35.2025,-119.1717,DAF001100,dairy/manure,3A2 Manure Management,15,0.07,1,8.8,2
+S01048,35.2151,-119.1859,DAF001225,dairy/manure,3A2 Manure Management,13,0.08,1,29.8,8
+S01051,35.1878,-119.1146,DAF001725,dairy/manure,3A2 Manure Management,16,0.06,1,32,8.8
+S01052,35.1781,-119.1232,DAF000259,dairy/manure - digester,3A2 Manure Management,12,0.17,1,54.3,17
+S01056,35.1663,-119.1083,DAF000177,dairy/manure,3A2 Manure Management,39,0.03,1,13.6,3.6
+S01057,35.1783,-119.1224,DAF000259,dairy/manure,3A2 Manure Management,12,0.08,1,16.6,3.3
+S01058,35.2061,-119.1733,DAF001100,dairy/manure,3A2 Manure Management,13,0.08,1,9.9,2.1
+S01059,35.2077,-119.1732,DAF001100,dairy/manure,3A2 Manure Management,13,0.08,1,22.8,5.6
+S01060,35.2159,-119.2037,DAF000983,dairy/manure - digester,3A2 Manure Management,17,0.06,1,17.9,3.9
+S01071,35.4771,-119.4477,DAF001130,dairy/manure,3A2 Manure Management,18,0.06,1,20.1,5.5
+S01073,35.2521,-119.1587,DAF001256,dairy/manure,3A2 Manure Management,8,0.13,0.9,19.4,6.7
+S01080,36.19,-119.6028,DAF001749,dairy/manure,3A2 Manure Management,6,0.17,0.8,7.3,2.4
+S01081,36.1897,-119.6075,DAF001749,dairy/manure,3A2 Manure Management,6,0.17,0.8,18.8,4.3
+S01083,35.2133,-119.1857,DAF001225,dairy/manure,3A2 Manure Management,13,0.08,1,8.4,1.8
+S01096,36.2667,-119.4063,DAF000725,dairy/manure,3A2 Manure Management,3,0.33,0.6,29.9,12.5
+S01097,36.2489,-119.4967,DAF000387,dairy/manure,3A2 Manure Management,2,0.5,0.4,32.9,12.6
+S01098,36.1642,-119.5348,DAF001911,dairy/manure,3A2 Manure Management,2,0.5,0.4,166.9,56
+S01099,36.1705,-119.4234,DAF001090,dairy/manure,3A2 Manure Management,4,0.25,0.7,23.5,2.2
+S01100,36.1343,-119.4589,DAF001383,dairy/manure,3A2 Manure Management,5,0.8,0.8,158.4,62
+S01101,36.0885,-119.3794,DAF000778,dairy/manure,3A2 Manure Management,10,0.1,0.9,33.7,5.9
+S01117,35.4746,-119.4311,DAF001720,dairy/manure,3A2 Manure Management,21,0.1,1,32.3,6
+S01119,35.4734,-119.4317,DAF001720,dairy/manure,3A2 Manure Management,21,0.05,1,3.4,1.3
+S01120,35.4732,-119.4333,DAF001720,dairy/manure,3A2 Manure Management,21,0.14,1,71.5,19.5
+S01121,35.4728,-119.4308,DAF001720,dairy/manure,3A2 Manure Management,21,0.05,1,2.1,1.4
+S01123,35.4754,-119.4327,DAF001720,dairy/manure,3A2 Manure Management,21,0.1,1,7.3,2.9
+S01131,35.1663,-119.0973,DAF000177,dairy/manure,3A2 Manure Management,35,0.03,1,7.1,1.7
+S01132,35.1659,-119.1054,DAF000177,dairy/manure,3A2 Manure Management,37,0.03,1,2.8,0.4
+S01133,33.9281,-118.4296,WWT000068,wastewater treatment,4D1 Domestic Wastewater Treatment & Discharge,12,0.08,1,9.5,3.4
+S01134,35.4706,-119.0626,FLD000207,oil/gas pumpjack,1B2 Oil & Natural Gas,20,0.15,1,16.5,4.1
+S01135,35.4564,-119.0498,FLD000207,oil/gas pumpjack,1B2 Oil & Natural Gas,22,0.05,1,5.9,1.4
+S01136,35.2894,-119.5147,FLD000140,oil/gas gathering line,1B2 Oil & Natural Gas,11,0.09,1,4.5,3.1
+S01137,35.1772,-119.1233,DAF000259,dairy/manure - digester,3A2 Manure Management,13,0.08,1,32.8,7.9
+S01138,38.0145,-122.1142,REF000019,refinery,1A1 Energy Industries,9,0.11,0.9,14.9,4.7
+S01139,35.1772,-119.1233,DAF000259,dairy/manure - digester,3A2 Manure Management,13,0.08,1,56.2,16.2
+SLF001,37.7488,-121.6548,LNF000022,landfill,4A1 Managed Waste Disposal Sites,8,1,1,1163.4,550.1
+SLF002,34.5685,-118.1536,LNF000705,landfill,4A1 Managed Waste Disposal Sites,1,1,1,128.1,33.3
+SLF003,35.3483,-118.7641,LNF000042,landfill,4A1 Managed Waste Disposal Sites,1,1,1,243.1,58.7
+SLF004,34.3064,-116.8216,LNF000707,landfill,4A1 Managed Waste Disposal Sites,2,1,1,138.8,66.8
+SLF005,34.0867,-117.2206,LNF000102,landfill,4A1 Managed Waste Disposal Sites,2,1,1,86.2,24.5
+SLF006,34.4322,-118.6485,LNF000135,landfill,4A1 Managed Waste Disposal Sites,2,1,1,253.8,94.2
+SLF007,34.4322,-118.6485,LNF000135,landfill,4A1 Managed Waste Disposal Sites,6,1,1,934.5,293
+SLF008,37.4984,-122.4077,LNF000182,landfill,4A1 Managed Waste Disposal Sites,11,1,1,2672.7,1135.1
+SLF009,37.8778,-121.1867,LNF000248,landfill,4A1 Managed Waste Disposal Sites,7,1,1,3008.9,1260.9
+SLF010,33.7216,-117.7012,LNF000251,landfill,4A1 Managed Waste Disposal Sites,10,1,1,1962,1022.3
+SLF011,33.6133,-117.8226,LNF000187,landfill,4A1 Managed Waste Disposal Sites,3,1,1,827.1,529.8
+SLF012,36.5298,-121.4045,LNF000714,landfill,4A1 Managed Waste Disposal Sites,4,1,1,98.2,34.3
+SLF013,37.1853,-121.6639,LNF000343,landfill,4A1 Managed Waste Disposal Sites,1,1,1,261.3,144.1
+SLF014,38.5295,-121.3742,LNF000345,landfill,4A1 Managed Waste Disposal Sites,4,1,1,40.5,9.6
+SLF015,36.7101,-121.7588,LNF000721,landfill,4A1 Managed Waste Disposal Sites,5,1,1,1390.1,325.6
+SLF016,37.4598,-121.9449,LNF000438,landfill,4A1 Managed Waste Disposal Sites,17,1,1,1922.4,825.6
+SLF017,33.9404,-117.8316,LNF000470,landfill,4A1 Managed Waste Disposal Sites,11,1,1,264.5,100.7
+SLF018,38.2092,-121.9715,LNF000503,landfill,4A1 Managed Waste Disposal Sites,13,1,1,1258.6,424
+SLF019,38.1691,-122.5656,LNF000518,landfill,4A1 Managed Waste Disposal Sites,6,1,1,300.7,90
+SLF020,38.5183,-121.1851,LNF000540,landfill,4A1 Managed Waste Disposal Sites,4,1,1,2131.1,563.5
+SLF021,35.5082,-119.4072,LNF000576,landfill,4A1 Managed Waste Disposal Sites,11,1,1,326.9,120
+SLF022,32.7339,-117.0657,LNF000599,landfill,4A1 Managed Waste Disposal Sites,1,1,1,602.3,103
+SLF023,34.3271,-118.516,LNF000615,landfill,4A1 Managed Waste Disposal Sites,60,1,1,1457.1,598.7
+SLF024,34.483,-120.1242,LNF000623,landfill,4A1 Managed Waste Disposal Sites,4,1,1,151.8,82.3
+SLF025,34.4061,-118.9918,LNF000638,landfill,4A1 Managed Waste Disposal Sites,21,1,1,1195,637
+SLF026,38.0264,-122.1678,NA,landfill,4A1 Managed Waste Disposal Sites,6,1,1,255.5,58.9
+SLF027,37.7594,-121.7282,LNF000675,landfill,4A1 Managed Waste Disposal Sites,15,1,1,399.4,88.4
+SLF028,34.5917,-117.2672,LNF000677,landfill,4A1 Managed Waste Disposal Sites,3,1,1,103,60.6
+SLF029,36.3876,-119.3804,LNF000680,landfill,4A1 Managed Waste Disposal Sites,10,1,1,464.9,74.5
+SLF030,32.853,-117.1676,LNF000691,landfill,4A1 Managed Waste Disposal Sites,1,1,1,874.3,187.9
